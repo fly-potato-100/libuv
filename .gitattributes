@@ -1,0 +1,5 @@
+/lib/**/*.a filter=lfs diff=lfs merge=lfs -text
+/lib/**/*.so filter=lfs diff=lfs merge=lfs -text
+/lib/**/*.dll filter=lfs diff=lfs merge=lfs -text
+/lib/**/*.lib filter=lfs diff=lfs merge=lfs -text
+/lib/**/*.pdb filter=lfs diff=lfs merge=lfs -text
